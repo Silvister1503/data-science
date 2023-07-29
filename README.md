@@ -1,2 +1,1 @@
-# data-science
-Data related projects section
+Flight Fare Prediction - End to End deployment
